@@ -102,6 +102,8 @@ select top 3 * from (
 	          from [KMS Sql Case Study]) AS Region
 order by Sales asc
 ```
+--OR
+
 ```sql
 -- Top 3
 SELECT TOP 3 Region, SUM(Sales) AS TotalSales
