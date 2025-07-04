@@ -1,19 +1,9 @@
-# DSA-Project-Documentation-2-
-This is another journey towards my Portfolio building while taking my Data Analysis class with Incubator Hub.
-I have gained alot of data driven insights and knowledge regarding data analysis process and 
-more related skills to data analysis ranging from aquiring skills on the great impact of various
-tools in this field,
-Tool's Like:
-- MS Excel.
-- SQL (Simple Query Language).
-- Power BI.
-
-## Project Topic: Kultra Mega Stores Inventory.
-### Project Overview
+# Project Topic: Kultra Mega Stores Inventory.
+## Project Overview
 Kultra Mega Stores (KMS), headquartered in Lagos, specialises in offi ce supplies and furniture.
 Its customer base includes individual consumers, small businesses (retail), and large corporate 
 clients (wholesale) across Lagos, Nigeria. You have been engaged as a Business Intelligence Analyst 
-to support the Abuja division of KMS. The Business Manager has shared an Excel fi le containing order 
+to support the Abuja division of KMS. The Business Manager has shared an Excel file containing order 
 data from 2009 to 2012 and has requested that you analyze the data and present your key insights and findings.
 
 ### Dataset Description
